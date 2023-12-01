@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    margin:auto;
+    width: 95%;
+}
+
+
+th{
+    background-color: #d5c09b ;
+    font-weight: bold;
+
+}
+
+tr{
+    border-bottom: 1px solid #654637;
+}
+
+td, th{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+div{
+    overflow-x: auto;
+}
